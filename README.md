@@ -1,2 +1,2 @@
-# Drum-kit
-This is for sample app based on html, css and js
+# Drum-Kit
+this is a drum kit project
